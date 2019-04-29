@@ -1,0 +1,12 @@
+{
+  "name": "vpc-proxy",
+  "engines": {
+    "node": ">=9.10.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
